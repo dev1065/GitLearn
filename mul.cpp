@@ -7,7 +7,7 @@ int main()
     int b = 3;
     int mul = 0;
     mul = a * b;
-    cout << mul << endl;
+    cout << "Multiplication = " << mul << endl;
 
     return 0;
 }
